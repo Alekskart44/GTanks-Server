@@ -1,0 +1,27 @@
+{
+	"maps": [
+		{
+			"name": "Песочница",
+			"id": "map_sandbox",
+			"min_rank": "1",
+			"max_rank": "27",
+			"max_players": "8",
+			"tdm": true,
+			"ctf": true,
+			"skybox_id": "skybox_default",
+			"theme_id": "Лето"
+		},
+		{
+			"name": "Песочница",
+			"id": "map_sandbox_winter",
+			"min_rank": "1",
+			"max_rank": "27",
+			"max_players": "8",
+			"tdm": true,
+			"ctf": true,
+			"skybox_id": "skybox_winter",
+			"theme_id": "Зима"
+		}
+		
+	]
+}
